@@ -32,4 +32,4 @@ console.log(url.replace('%30','-'))
 
 console.log(url.includes('kundan'))
 
-console.log(gameName.split('-'));
+console.log(gameName.split('-')); 
